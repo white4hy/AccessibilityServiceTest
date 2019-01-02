@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accessibility自动点击测试</string>
+    <string name="description">AccessibilityService自动点击测试</string>
+</resources>
